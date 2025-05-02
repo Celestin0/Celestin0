@@ -56,6 +56,6 @@ Right now, I’m developing a **Smart Gate System** that uses AI-based license p
 
 - GitHub: https://github.com/Celestin0
 - Email: celestin.ndayambaje@student.wsg.pl
-- LinkedIn: linkedin.com/in/ndayambaje-celestin-b0a250252
+- LinkedIn: https://linkedin.com/in/ndayambaje-celestin-b0a250252
 
 ---
