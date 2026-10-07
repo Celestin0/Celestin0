@@ -1,6 +1,6 @@
 # Hi, I'm Celestin Ndayambaje 👋
 
-### Computer Engineering Graduate | Cloud & DevOps | Kubernetes ||Networking | Linux | Cybersecurity
+### Computer Engineering Graduate | Cloud & DevOps | Kubernetes |Networking | Linux | Cybersecurity
 
 I'm a Computer Engineering and Mechatronics graduate based in Poland, currently looking for my first professional opportunity in IT.
 
